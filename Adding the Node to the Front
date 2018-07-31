@@ -1,0 +1,6 @@
+Creating a node and then
+Node first =  new Node
+Node second = new Node
+Linking that node to another
+first.next = second
+Adding the node to front
