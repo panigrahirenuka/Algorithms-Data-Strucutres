@@ -4,3 +4,7 @@ Node second = new Node
 Linking that node to another
 first.next = second
 Adding the node to front
+public class linkedlistnode<T> -- it allows any params
+linked list implements collections interface -- System.collections.Generic.ICollection<T>
+they have public getters and private setters
+
